@@ -1,0 +1,22 @@
+.question {
+    border-left: 4px solid rgba(195, 195, 195, 0.596);
+    padding: 8px;
+
+}
+
+.answer { 
+    border-left: 4px solid rgba(195, 195, 195, 0.596);
+    padding: 8px;
+    background: rgba(255, 255, 0, 0.281);
+}
+.coach {
+    font-weight: bold;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    height: 24px;
+}
